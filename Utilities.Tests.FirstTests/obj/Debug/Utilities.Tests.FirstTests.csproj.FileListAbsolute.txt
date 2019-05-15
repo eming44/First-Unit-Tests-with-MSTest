@@ -1,0 +1,14 @@
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Utilities.Tests.FirstTests.dll
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Utilities.Tests.FirstTests.pdb
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\obj\Debug\Utilities.Tests.FirstTests.csprojResolveAssemblyReference.cache
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\obj\Debug\Utilities.Tests.FirstTests.dll
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\obj\Debug\Utilities.Tests.FirstTests.pdb
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\FirstTests.UnitTesting.exe
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\FirstTests.UnitTesting.pdb
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Eming\Desktop\All programs C#\FirstTests.UnitTesting\Utilities.Tests.FirstTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
